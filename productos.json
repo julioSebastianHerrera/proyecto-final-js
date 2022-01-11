@@ -1,0 +1,73 @@
+[
+    {   
+    
+        "id":1,
+        "modelo": "MTB",
+        "precio":650,
+        "img": "./multimedia/producto1.jpg",
+        "cantidad":1
+    },
+    {
+
+        "id":2,
+        "modelo": "MTB",
+        "precio":650,
+        "img": "./multimedia/producto2.jpg",
+        "cantidad":1
+    },
+    {
+
+        "id":3,
+        "modelo": "MTB",
+        "precio":650,
+        "img": "./multimedia/producto3.jpg",
+        "cantidad":1
+    },
+    {
+
+        "id":4,
+        "modelo": "Playera",
+        "precio":650,
+        "img": "./multimedia/producto4.jpg",
+        "cantidad":1
+    },
+    {         
+        "id":5,
+        "modelo": "Playera",
+        "precio":650,
+        "img": "./multimedia/producto5.jpg",
+        "cantidad":1
+    },
+    {
+
+        "id":6,
+        "modelo": "Playera",
+        "precio":650,
+        "img": "./multimedia/producto6.jpg",
+        "cantidad":1
+    },
+    {
+
+        "id":7,
+        "modelo": "Ruta",
+        "precio":650,
+        "img": "./multimedia/producto7.jpg",
+        "cantidad":1
+    },
+    {
+
+        "id":8,
+        "modelo": "Ruta",
+        "precio":650,
+        "img": "./multimedia/producto8.jpg",
+        "cantidad":1
+    },
+    {
+
+        "id":9,
+        "modelo": "Ruta",
+        "precio":650,
+        "img": "./multimedia/producto9.jpg",
+        "cantidad":1
+    }
+]
